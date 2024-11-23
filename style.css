@@ -6,3 +6,11 @@
 #projects {
   background-color: #e2edff;
 }
+
+.btn-whatsapp {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 999;
+  background-color: forestgreen;
+}
